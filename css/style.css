@@ -1,0 +1,282 @@
+
+
+.logo{
+	padding: 10px 0 0 0
+}
+.top-header{
+		background-color: #161616;
+		color: #ccc;
+		padding: 10px 0;
+	}
+.menu {
+	margin-bottom: 0
+}
+.menu > nav > li > .active > a {
+	background: none
+}
+
+.navbar .nav > li > a,.navbar .nav > li > .active > a {
+	background: none !important;
+	text-shadow: none;
+	color: #ccc !important;
+}
+.navbar .nav > li > a:hover{
+	color: #f1f1f1	;
+}
+
+.slider{
+	background: url('../images/slider-bg.jpg') repeat-x;
+	height: 346px
+}
+
+.deliver{
+	border-top: 5px solid #fc2a00;
+}
+
+.deliver-title{
+	background: #fc2a00;
+	padding: 5px 20px 5px 20px;
+	line-height: 25px;
+	color: #FFF;
+	font-size: 16px;
+	text-shadow: 0 1px #333;
+	border-radius: 0px 0px 7px 7px;
+	width: 130px;
+	margin: 0 auto;
+}
+
+.deliver{
+	background: #e7e7e7;
+	border-bottom: thin solid #ccc;
+	margin-bottom: 20px;
+}
+
+.deliver-short-content{
+	margin-top: 30px;
+	margin-bottom:20px;
+}
+
+.img {
+	background: url(../images/deliver-icons.png) no-repeat;
+	height: 100px;
+	width: 97px;
+	margin: 0 auto;
+
+}	
+
+.agile,.stratup,.reliable,.maintanence{
+	padding: 0 10px;
+}
+.agile-img{
+	background-position:0px 0px;
+}
+.stratup-img{
+	background-position:-96px 0
+}
+.reliable-img{
+	background-position:-191px 0
+}
+
+.maintanence-img{
+	background-position:-288px 0
+}
+
+.deliver-short-content h3{
+	font-size: 16px;
+	color: #f54305;
+	margin-bottom: 0;
+
+}
+
+.deliver-short-content h3 strong{
+	color: #401BAA;
+}
+
+.deliver-short-content p{
+	color: #666
+}
+
+.our-main h3{
+	font-size: 18px;
+	padding-left: 35px;
+	color: #f54305;
+	margin-bottom: 0px;
+}
+
+.our-main p {
+	color: #777;
+}
+.icons{
+		background: url(../images/icons.png) no-repeat;
+		height:25px;
+		width: 23px;
+		margin-top: 0;
+		position: absolute;
+}
+
+.aboutus-icon{
+	background-position: 0px 0px;
+	margin-top: 7px;
+}
+.vision-icon{
+	background-position: -23px 0px;
+	width: 30px;
+	margin-top: 7px;
+
+}
+
+.experience-icon{
+	background-position: -50px 0px;
+	width: 30px;
+	margin-top: 7px;
+	padding-left: 35px;
+
+}
+.technology-client{
+	margin-top: 20px;
+}
+.tech h3 , .client h3{
+	color: #666;
+	font-size: 18px !important;
+}
+
+.footer{
+	background: #2c2c2c;
+	border-top: 4px solid #f54305;
+	margin-top: 20px;
+}
+
+.footer h3{
+	color: #f1f1f1;
+	font-size: 18px;
+}
+
+.footer p{
+	color: #999;
+}
+
+.footer span{
+	padding: 0 20px;
+}
+
+.contact-text{
+	background: #ccc !important;
+	width: 100%;
+	border-radius: 0 !important;
+}
+
+.message{
+	margin-bottom: 0px;
+	height: 100px;
+	resize: none;
+}
+.email{
+	margin-left: 5px !important;
+}
+.email ,.name{
+	margin-bottom: 0 !important;
+}
+.send{
+	background: #f54305;
+	border: none;
+	padding: 5px 20px;
+	color:#fff;
+}
+
+.contact-information {
+	color: #f1f1f1;
+
+}
+.contact-information strong {
+	color: #4b7de1;
+
+}
+
+
+.contact-information address {
+		background: url(../images/contact-icons.png) 3px 5px no-repeat;
+		padding: 0 0 30px 30px;
+		line-height: 23px;
+}
+
+.contact-information address a{
+	text-decoration: none;
+	color: #f1f1f1;
+}
+
+.contact-information address a:hover{
+	color: #4b7de1;
+}
+
+.client-img img{
+	margin: 10px 0;
+}
+
+
+.slider-img{
+	margin: 30px 0;
+}
+
+.slider-information{
+	margin-top: 90px;
+}
+
+.slider-information h2{
+	font-weight: 100;
+	text-shadow: 1px 0px 60px rgba(255, 255, 255, 1);
+	color: #000;
+	line-height: 30px;
+}
+
+.slider-information p{
+	color: #FF1F00;
+	font-weight: bold;
+	text-shadow: 0px 1px 1px rgba(0, 0, 0, .5);
+}
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { 
+	.footer{
+		padding: 10px;
+	}
+	.email {
+		margin-left: 0px !important;
+		padding: 0 10px;
+	}
+	.email, .name{
+		margin-bottom: 5px !important;
+	}
+ }
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+	.footer{
+		padding: 10px;
+	}
+	.email {
+		margin-left: 0px !important;
+		padding: 0 10px;
+	}
+	.email, .name{
+		margin-bottom: 10px !important;
+	}
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+	.footer{
+		padding: 10px;
+	}
+	.email {
+		margin-left: 0px !important;
+		padding: 0 10px;
+	}
+	.email, .name{
+		margin-bottom: 10px !important;
+	}
+ 
+}

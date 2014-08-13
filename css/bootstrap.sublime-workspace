@@ -1,0 +1,549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"chl",
+				"chl-ico"
+			],
+			[
+				"fre",
+				"friendphoto-ico"
+			],
+			[
+				"cont",
+				"content_tag"
+			],
+			[
+				"cou",
+				"cursor"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"image",
+				"image_tag"
+			],
+			[
+				"span",
+				"span6"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"chall",
+				"challenge-ico"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bor",
+				"bootstrap-responsive"
+			],
+			[
+				"child",
+				"last-child"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"30p",
+				"30px"
+			],
+			[
+				"background-o",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/codekathmandu/work/doubledog/classes/week2/html-css-javascripts/javascripts/bootstrap.js",
+		"/home/codekathmandu/work/doubledog/classes/week2/html-css-javascripts/stylesheets/bootstrap-responsive.css",
+		"/home/codekathmandu/work/doubledog/app/assets/stylesheets/application.sass",
+		"/home/codekathmandu/work/doubledog/tmp/cache/sass/58b5de2ca08a17b0e2d2be3265d490210c7e635e/responsive.scssc",
+		"/home/codekathmandu/work/doubledog/README.rdoc",
+		"/home/codekathmandu/work/doubledog/Rakefile",
+		"/home/codekathmandu/work/doubledog/config/boot.rb",
+		"/home/codekathmandu/work/doubledog/app/models/photo.rb",
+		"/home/codekathmandu/work/doubledog/app/views/photos/index.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/plays/show.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/photos/_public_photos.html",
+		"/home/codekathmandu/work/doubledog/app/assets/images/text-info",
+		"/home/codekathmandu/work/doubledog/app/assets/images/doubledog.JPG",
+		"/home/codekathmandu/work/doubledog/db/migrate/20130909095156_remove_friend_id_from_messages.rb",
+		"/home/codekathmandu/work/doubledog/app/views/user_mailer/invite_email.html.erb",
+		"/home/codekathmandu/work/doubledog/app/models/invitation.rb",
+		"/home/codekathmandu/work/doubledog/app/assets/images/playing.PNG",
+		"/home/codekathmandu/work/doubledog/app/assets/javascripts/messages.js.coffee",
+		"/home/codekathmandu/work/doubledog/app/models/message.rb",
+		"/home/codekathmandu/work/doubledog/config/initializers/mime_types.rb",
+		"/home/codekathmandu/work/doubledog/db/migrate/20130605120830_change_player_photo_link.rb",
+		"/home/codekathmandu/work/doubledog/db/migrate/20130825121721_add_moderated_by_to_play.rb",
+		"/home/codekathmandu/work/doubledog/app/views/plays/_accepted_photo.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/plays/_no_photo.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/plays/_submitted_photo.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/plays/_rejected_photo.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/plays/_created_photo.html.erb",
+		"/home/codekathmandu/work/doubledog/app/assets/javascripts/plays.js.coffee",
+		"/home/codekathmandu/work/doubledog/app/views/shared/_plays_list.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/pages/home.html.erb",
+		"/home/codekathmandu/work/doubledog/app/helpers/application_helper.rb",
+		"/home/codekathmandu/work/doubledog/tmp/cache/sass/2ac7bab9f46d62844cfeaf89b834433cacdc82a8/bootstrap-responsive.scssc",
+		"/home/codekathmandu/work/doubledog/vendor/assets/javascripts/bootstrap-datetimepicker.min.js",
+		"/home/codekathmandu/work/doubledog/tmp/cache/sass/58b5de2ca08a17b0e2d2be3265d490210c7e635e/bootstrap.scssc",
+		"/home/codekathmandu/work/doubledog/tmp/cache/sass/2ac7bab9f46d62844cfeaf89b834433cacdc82a8/bootstrap.scssc",
+		"/home/codekathmandu/work/doubledog/classes/week2/html-css-javascripts/stylesheets/bootstrap.css",
+		"/home/codekathmandu/work/doubledog/app/views/shared/_progress.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/layouts/application.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/shared/_friends_playing_this_challenge.html.erb",
+		"/home/codekathmandu/work/doubledog/app/helpers/photos_helper.rb",
+		"/home/codekathmandu/work/doubledog/app/views/shared/_objectives_status.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/application/_signed_in_nav.html.erb",
+		"/home/codekathmandu/work/doubledog/app/controllers/pages_controller.rb",
+		"/home/codekathmandu/work/doubledog/app/views/plays/index.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/back_file/back_up",
+		"/home/codekathmandu/work/doubledog/app/views/shared/_clickable_challenge_detail.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/shared/_first_challenge_info_block.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/friends/index.html.erb",
+		"/home/codekathmandu/.cache/.fr-aw7Wgf/jquery-ui-1.11.0.custom/index.html",
+		"/home/codekathmandu/work/doubledog/app/views/application/_footer.html.erb",
+		"/home/codekathmandu/work/doubledog/db/migrate/20130813122305_change_objective_number_to_position.rb",
+		"/home/codekathmandu/work/doubledog/config.ru",
+		"/home/codekathmandu/work/doubledog/db/migrate/20130605113658_create_objectives.rb",
+		"/home/codekathmandu/work/doubledog/app/models/challenge.rb",
+		"/home/codekathmandu/work/doubledog/config/database.yml",
+		"/home/codekathmandu/work/doubledog/classes/week4/doubledog/config/database.yml",
+		"/home/codekathmandu/work/doubledog/log/development.log",
+		"/home/codekathmandu/work/doubledog/.gitignore",
+		"/home/codekathmandu/work/doubledog/app/views/application/_navbar.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/application/_flash.html.erb",
+		"/home/codekathmandu/work/doubledog/app/assets/stylesheets/bootstrap_and_overrides.sass",
+		"/home/codekathmandu/work/doubledog/config/routes.rb",
+		"/home/codekathmandu/work/doubledog/config/newrelic.yml",
+		"/home/codekathmandu/work/doubledog/app/helpers/pages_helper.rb",
+		"/home/codekathmandu/work/doubledog/Gemfile",
+		"/home/codekathmandu/work/doubledog/tmp/cache/sass/58b5de2ca08a17b0e2d2be3265d490210c7e635e/_grid.scssc",
+		"/home/codekathmandu/work/doubledog/db/schema.rb",
+		"/home/codekathmandu/work/doubledog/app/helpers/challenges_helper.rb",
+		"/home/codekathmandu/work/doubledog/spec/models/message_spec.rb",
+		"/home/codekathmandu/work/doubledog/app/views/pages/intro.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/challenges/index.html.erb",
+		"/home/codekathmandu/work/doubledog/app/views/member/index.html.erb",
+		"/home/codekathmandu/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/codekathmandu/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/codekathmandu/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/codekathmandu/work/myblog/_site/css/main.css",
+		"/home/codekathmandu/work/myblog/_site/css/style.css",
+		"/home/codekathmandu/work/myblog/_site/testimonial/index.html",
+		"/home/codekathmandu/work/myblog/_site/about/index.html",
+		"/home/codekathmandu/work/myblog/_site/index.html",
+		"/home/codekathmandu/work/codkathmandu",
+		"/home/codekathmandu/work/.codkathmandu"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"width: 245px;\nfloat: left !important;",
+			"  \n",
+			"photo-block-infomation",
+			"none",
+			".comment-photos",
+			".photo-block-infomation h5",
+			" .photo-block-infomation p",
+			".photo-info .photo-block-infomation p",
+			".photo-info:hover .photo-block-infomation p",
+			"footer",
+			".photo-block-infomation h5",
+			".photo-block-infomation p",
+			".photo-block-infomation h5",
+			".photo-block-infomation",
+			".photo-comment-icon",
+			"height: 200px",
+			".photo-block-infomation",
+			"min-height",
+			".nav-tabs > li",
+			"select",
+			".photo-comment-icon",
+			"url",
+			"photo-block-image",
+			"thumnail",
+			"player",
+			"friend_photos",
+			".challenge-accept, .challenge-back",
+			"control-image",
+			"div.basic-thumb .control-image",
+			".photo-block-image",
+			"challenge-conn-btn",
+			"mem-namehallenge-conn-btn",
+			"mem-name",
+			"challenge-conn-btn",
+			"photo-list",
+			"photo-block-infomation",
+			"photo-block-image",
+			"challenge",
+			"url",
+			"0",
+			"qickitmes",
+			"image_tag",
+			"challenge-tab-list",
+			".navbar .nav > li > a",
+			".challenge-ico",
+			"latest-challenge",
+			"ply_challenge-ico ",
+			".text-error",
+			"play-challenge-rank",
+			"ply_challenge-ico",
+			"activeable_link_to",
+			"container",
+			"fff",
+			".nav-tabs > li > a",
+			"chl-ico",
+			"tab",
+			"nav",
+			"plays-rank-info",
+			"plays-object-heading",
+			" play_challenge_detail",
+			"play-challenge-thumb",
+			"prog",
+			"progress",
+			"plays-info",
+			"div.basic-thumb .control-image, .basic-thumb",
+			".tbl-player-rank td",
+			"play-chllenge-rank-info",
+			"play-challenge-rank",
+			"progress",
+			"border-collapse",
+			"objectives",
+			"play_challenge_detail",
+			".play_challenge_detail",
+			"play-challenge",
+			"play-challenge-thumb",
+			".play-challenge-thumb",
+			"objective",
+			"play_challenge_detail",
+			"friends",
+			"friends playing",
+			"friends playing this challenge",
+			"url",
+			"player-heading",
+			"play-challenge-player-list",
+			"player-stat-btm",
+			".play-challenge-player-list",
+			"play-chellenge-rank-box",
+			".player-heading",
+			".player-listed img",
+			"f79000",
+			"objective_status",
+			"time_pl",
+			"objective",
+			"basic-thumb-objective",
+			"objectives",
+			"link_to photo_path",
+			"objective_status(objective)",
+			"<%= objective_status(objective) %>",
+			"plays-object-heading",
+			"player-heading",
+			"heading",
+			"Change",
+			"clickable image",
+			"objective_status",
+			"objectives",
+			"objective",
+			"foot",
+			"first challenge_info",
+			"first challenge_info block",
+			"offset",
+			"play-challenge-player-list",
+			"player-info-list",
+			"\">",
+			"objectives",
+			"image_tag",
+			"span2 play-challenge-player-list",
+			"span3 play-challenge-player-list",
+			"span10 play-chllenge-rank-info",
+			"span9 play-chllenge-rank-info",
+			"span2 play-challenge-player-list",
+			"play-chellenge-rank-box",
+			"play challenge",
+			"h2",
+			"text-error",
+			"challenge_info",
+			"first challenge",
+			"challenge info",
+			"control"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bootstrap.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"responsive",
+				"classes/week2/html-css-javascripts/stylesheets/bootstrap-responsive.css"
+			],
+			[
+				"bootstrap",
+				"classes/week2/html-css-javascripts/javascripts/bootstrap.js"
+			],
+			[
+				"conpa",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"g",
+				".gitignore"
+			],
+			[
+				"signed",
+				"app/views/application/_signed_in_nav.html.erb"
+			],
+			[
+				"chall",
+				"app/models/challenge.rb"
+			],
+			[
+				"",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"git",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
