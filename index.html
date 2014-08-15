@@ -1,34 +1,13 @@
-<html>
-	<head>
-		<title>Codekathmandu</title>
-		<link rel="stylesheet" href="css/bootstrap.css">
-		<link rel="stylesheet" href="css/bootstrap-responsive.css">
-		<link rel="stylesheet" href="css/style.css">
-	</head>
-	<body>
-		<div class="row-fluid top-header">
-			<div class="container">
-				<div class="span3 logo"><img src="images/logo.png" border="" alt=""></div>
-				<div class="span9 ">
-					<div class="navbar menu pull-right ">
-						<ul class="nav">
-							<li class="active"><a href="#">Company</a></li>
-							<li><a href="#">Work</a></li>
-							<li><a href="#">Services</a></li>
-							<li><a href="#">Team</a></li>
-							<li><a href="#">Contact</a></li>
+---
+layout: default
+---
 
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div> <!-- End Top header -->
-
+{% include header.html %}
 		<div class="row-fluid">
 			<div class="slider">
 				<div class="container ">
 					<div class="span8 slider-img">
-						<div class="imglst"><img src="images/slider.png" alt="" border="0"></div>
+						<div class="imglst"><img src="assets/slider.png" alt="" border="0"></div>
 					</div>
 					<div class="span4 slider-information">
 						<h2>Ruby on rails <br>
@@ -46,26 +25,26 @@
 				<div class="span12 deliver-short-content pull-right">
 					<div class="span3 text-center agile ">
 						<div class="img agile-img"></div>
-						<h3><strong>Agile</strong> Development</h3>
-						<p>Button groups can also function as radios, where only one button may be active, or checkboxes, where any number of buttons may be active. View the JavaScript docs for that.
-						</p>
+					 	<h3><strong>Agile</strong> Development</h3>
+						<p>We build applications and services very fast. Your prototype will be built rapidly, and you get a working subset of your MVP at the end of each iteration.
+						</p> 
 					</div>
 					<div class="span3 text-center stratup">
 						<div class="img stratup-img"></div>
 						<h3><strong>Startup</strong> Consulting</h3>
-						<p>Button groups can also function as radios, where only one button may be active, or checkboxes, where any number of buttons may be active. View the JavaScript docs for that.
+						<p>Not sure if the idea can be implemented or how much does it cost to build it? We advise our clients at all stages of development. We do research, A/B testing and business model validation.
 						</p>
 					</div>
 					<div class="span3 text-center reliable">
 						<div class="img reliable-img"></div>
 						<h3><strong>Reliable </strong> Deployment</h3>
-						<p>Button groups can also function as radios, where only one button may be active, or checkboxes, where any number of buttons may be active. View the JavaScript docs for that.
+						<p>Cloud or dedicated hardware, high-traffic or low-traffic, our engineers will find the best deployment scenario and implement it reliabily.
 						</p>
 					</div>
 					<div class="span3 text-center maintanence">
 						<div class="img maintanence-img"></div>
 						<h3><strong>Mantenance</strong> and Growth</h3>
-						<p>Button groups can also function as radios, where only one button may be active, or checkboxes, where any number of buttons may be active. View the JavaScript docs for that.
+						<p>You are not left alone after you launch your app. We are here to help, resolve all issues or scale to handle increased traffic. 
 						</p>
 					</div>
 				</div>
@@ -79,7 +58,7 @@
 						<h3>About Us</h3>
 					</div>
 					<p>
-						Button groups can also function as radios, where only one button may be active, or checkboxes, where any number of buttons may be active. View the JavaScript docs for that.where any number of buttons may be active. View the JavaScript docs for that.
+						CodeKathmandu specializes in offshore Ruby on Rails Development. What sets us apart from others in the league is that we offer end-to-end solutions and boast of some top notch Ruby On Rails developers. 
 					</p>
 				</div>
 				<div class="span4">
@@ -89,13 +68,13 @@
 					</div>
 
 					<p>
-						Button groups can also function as radios, where only one button may be active, or checkboxes, where any number of buttons may be active. View the JavaScript docs for that.where any number of buttons may be active. View the JavaScript docs for that.
+						We are passionate about building new tools and services for our clients. There is nothing more exciting than to watch a startup succeed. We want to be part of it, and we can help by developing great software.
 					</p>
 				</div>
 				<div class="span4">
 					<div><div class="icons experience-icon"></div><h3>our experience</h3></div>
 					<p>
-						Button groups can also function as radios, where only one button may be active, or checkboxes, where any number of buttons may be active. View the JavaScript docs for that.where any number of buttons may be active. View the JavaScript docs for that.
+						Social-networking applications, e-commerce platforms, CRM systems, web widgets and CMS pages - we built those many times already. But we are always looking to explore unexplored, deliver new, exciting projects that are pushing boundaries of technology.
 					</p>
 				</div>
 			</div>
@@ -105,52 +84,19 @@
 				<div class="span6 tech">
 					<h3>Technology</h3>
 					<div class="tech-img">
-						<img src="images/tecnology.png">
+						<img src="assets/tecnology.png">
 					</div>
 				</div>
 				<div class="span6 client">
 					<h3>Our Clients</h3>
 					<div class="client-img">
-						<img src="images/client.jpg	">
-						<img src="images/client.jpg	">
-						<img src="images/client.jpg	">
-						<img src="images/client.jpg	">
-						<img src="images/client.jpg	">
+						<img src="assets/client.png">
 					</div>
 				</div>
 			</div>
 		</div> <!-- End Technology and client -->
-		<div class="row-fluid footer">
-				<div class="container ">
-						<div class="span4" >
-							<h3>Meet our team</h3>
-							<p>Button groups can also function as radios, where only one button may be active, or checkboxes, where any number of buttons may be active. View the JavaScript docs for that.where any number of buttons may be active. View the JavaScript docs for that.</p>
-						</div><!-- end Meet our team -->
-						<div class="span4">
-							<h3>Quick Contact Form</h3>
-							<form>
-								<p><textarea class="message contact-text" row="5">Message...</textarea></p>
-								<p class="row-fluid">
-									<input type="text" value="your name ..." class="name contact-text span6">
-									<input type="text" value="Your email address ..." class="email contact-text span6">
-								</p>
-								<p><button type="submit" class="send">Send</button></p>
-							</form>
-						</div><!-- end Quick Contact Form -->
-						<div class="span4">
-							<h3>Talk to Us</h3>
-							<div class="contact-information">
-								<strong>Codekathmandu</strong><br>
-								<address>
-									 <a href="mailto:#">codekathmandu@info</a> <br>
-									codekathmandu<br>
-									+977 01 5458684
-								</address>
+	{% include footer.html %}
 
-							</div>
-						</div><!-- end Talk to Us -->
-				</div>
-		</div>
 
-	</body>
-</html>
+
+
